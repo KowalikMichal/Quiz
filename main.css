@@ -102,3 +102,16 @@ li.nav-tabs > ul{
 	font-family: 'Pacifico', cursive;
 	font-size: 2rem;
 }
+
+.info-text{
+		font-family: 'Pacifico', normal;
+	font-size: 1rem;
+}
+
+input[type=radio]:checked + label:before {  
+    content: "2022";  
+    color: #aaa;  
+    font-size: 30px;  
+    text-align: center;  
+    line-height: 15px;  
+}
